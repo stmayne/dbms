@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="2A02E1F1-24E2-D42C-7FC6-29F70B84DE95" name="NL_Document" seqName="seg_0"/>
+   <object objectType="Entity" objectID="ECA1D3A7-D0B9-D821-1540-0596BC45D21A" name="NL_Employees" seqName="seg_0"/>
+   <object objectType="Entity" objectID="55E3E4F1-8483-8173-E8CC-7CF69FAAF98F" name="NL_Member" seqName="seg_0"/>
+   <object objectType="Entity" objectID="7EC88592-4BD9-8826-2285-E27F3E50751C" name="NL_Nlist" seqName="seg_0"/>
+   <object objectType="Entity" objectID="F58D436E-D127-7DC7-545F-765D8BFC5617" name="NL_relation" seqName="seg_0"/>
+   <object objectType="Relation" objectID="32A5FECB-04F4-DD25-EFCA-87042B338F36" name="r1" seqName="seg_0"/>
+   <object objectType="Relation" objectID="866C581C-04A9-1847-2BC3-0103A7AEC238" name="r2" seqName="seg_0"/>
+   <object objectType="Relation" objectID="A3E36453-5864-6E61-C855-02519089FE46" name="r3" seqName="seg_0"/>
+   <object objectType="Relation" objectID="B33CA266-A457-CE61-9FB7-D8CA1FA48F55" name="r4" seqName="seg_0"/>
+   <object objectType="Relation" objectID="5B592A08-80F7-4F9C-A52A-7F96550D0658" name="r7" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>

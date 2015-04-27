@@ -1,0 +1,133 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="CE9AD761-F7EA-13AF-0DB4-929F536B3684" name="NL_Nlist">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>7EC88592-4BD9-8826-2285-E27F3E50751C</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="notification_list_id" id="25340D7B-A8B4-E9BA-D5D9-DB459838FB9A">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>0E4E70D3-0E4D-E397-F391-2B50FD770F79</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="status" id="0C227510-B47D-C8BA-4155-9D6393692CF4">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>FBAA4EC7-AE5D-599B-CB97-B4B7016A8C22</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="name" id="468A8020-AB68-0625-2F02-8E82E6F716E3">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>B46B1A60-3F34-A75A-6D65-61711C3F988F</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>4000</dataTypeSize>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="description" id="C63A2D93-8279-11FD-3143-40F94C56831E">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>8AA2ABD3-9333-7655-B6E9-E61AAA2D3FC8</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>4000</dataTypeSize>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="ownership_division_code" id="303D953A-3DD1-D9A4-D545-606535FE3C02">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>3DE474A1-F8CD-129F-5EAE-67D4BB59B141</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>255</dataTypeSize>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="external_view_name" id="97F9BA23-754D-3240-B36F-76D487CD4A91">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>9FD1E7B4-9A78-AED0-61FB-2A1B5734CAAE</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>4000</dataTypeSize>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="status_effective_date" id="B683DC21-C964-7808-318C-61B88A510FC4">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>4C379B27-B5F4-C8B3-21A3-7B51FE257C2F</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NL_Nlist_notification_list_id" id="B8BE70F6-5705-B70F-FD0D-3129FC83FEDF">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>CF806896-3150-45AB-DA53-506BCD48E761</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<delegate>25340D7B-A8B4-E9BA-D5D9-DB459838FB9A</delegate>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="60A3A28D-6998-255B-ADBD-E15427B0B63C" referredColumn="25340D7B-A8B4-E9BA-D5D9-DB459838FB9A"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="FB2D63A2-8C81-DBB7-C1E7-5318031A983C" name="NL_Nlist_PK">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>63B51C03-FF91-F2B9-6A72-7AE20F887C2D</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="25340D7B-A8B4-E9BA-D5D9-DB459838FB9A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="4CC39E4C-FE1D-3002-F95E-077E9E087E71" name="NL_Nlist_NL_Nlist_FK">
+<createdBy>smayne</createdBy>
+<createdTime>2015-04-26 23:31:23 UTC</createdTime>
+<generatorID>5B592A08-80F7-4F9C-A52A-7F96550D0658</generatorID>
+<ownerDesignName>relational</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="B8BE70F6-5705-B70F-FD0D-3129FC83FEDF"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
